@@ -1,2 +1,2 @@
-# VBA-Script-for-Stocks
+# VBA-Script
 Module 2 Challenge
